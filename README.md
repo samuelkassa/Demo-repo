@@ -1,3 +1,3 @@
 # Demo
 
-This repository is my first repository since I joined GitHub.
+This repository is my first repository since I joined GitHub!.
